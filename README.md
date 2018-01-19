@@ -4,4 +4,4 @@ Everyone should create their own branch to edit this!
 
 | Name 			 | Computing ID | Thing you did over break |
 | ---- 			 | ------------ | ------------------------- |
-| Mark Sherriff  | mss2x 	    | Took Sammy to first UVA basketball game            |
+| Mary Graham  | meg5ed 	    | Went to Ohio            |
